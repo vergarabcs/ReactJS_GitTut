@@ -1,1 +1,2 @@
-bobo kid
+Change
+Resolves #6
